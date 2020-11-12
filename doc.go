@@ -5,7 +5,7 @@ This works as a driver for database/sql.
 
 Installation
 
-    go get github.com/mutecomm/go-sqlcipher/v4
+    go get github.com/navono/go-sqlcipher/v4
 
 Supported Types
 
